@@ -1,0 +1,13 @@
+name = "Shield Overhaul"
+filename = "shield_overhaul-2.0.4-FORGE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c35b9d5335e007ee2f44bca5ec1b588bc7d531db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6161768
+project-id = 637870

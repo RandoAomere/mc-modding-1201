@@ -1,0 +1,13 @@
+name = "AzureLib"
+filename = "azurelib-neo-1.20.1-3.2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "abef0175d6ff5563accea054096539ec82a57978"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9468382
+project-id = 817423

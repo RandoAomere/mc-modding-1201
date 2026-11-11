@@ -1,0 +1,13 @@
+name = "Firefly Bush  [1.18+1.21++ Backport]"
+filename = "fireflybushport-3.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bbd80ef749fca97462745cba0aeb5861a44ac5cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7001393
+project-id = 1194702

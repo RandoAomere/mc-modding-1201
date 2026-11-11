@@ -1,0 +1,13 @@
+name = "Create: Copper Oxidizing"
+filename = "create-copper-oxidizing-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HzL1HSIW/versions/zXM7LZjT/create-copper-oxidizing-1.jar"
+hash-format = "sha512"
+hash = "35b41414b70e5ade61fb644eb8a928b49c0907a13898c1eef52efc94d64021d487d941ae1086b2078e42b134297e46a76fd5027974c5a29b1395c86384f410e2"
+
+[update]
+[update.modrinth]
+mod-id = "HzL1HSIW"
+version = "zXM7LZjT"

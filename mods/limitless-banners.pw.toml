@@ -1,0 +1,13 @@
+name = "\"Limitless\" Banners"
+filename = "limitless-banners-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z4zsMANd/versions/ZrukCrzQ/limitless-banners-1.0.0.jar"
+hash-format = "sha512"
+hash = "fcd88a5b476af5e0c1921d749cc8c33dcebc6c12123651baeefb582551b73c2cc1f34deb96df54fa05b901adda8c298bd22f3294c7e7fb49ed2de7e9870323c6"
+
+[update]
+[update.modrinth]
+mod-id = "z4zsMANd"
+version = "ZrukCrzQ"

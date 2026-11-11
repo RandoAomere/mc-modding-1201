@@ -1,0 +1,13 @@
+name = "Every Compat (Stone Zone)"
+filename = "stonezone-1.20-2.9.13-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uYwn8IP5/versions/TQLrJ303/stonezone-1.20-2.9.13-forge.jar"
+hash-format = "sha512"
+hash = "38ba99e92443c81070945674ca21e163c674755a125070dd054bcc179355224b5a5a66b614fddc3f2619804d8cee4af94cd7cd963f8a8d99c07a937185839922"
+
+[update]
+[update.modrinth]
+mod-id = "uYwn8IP5"
+version = "TQLrJ303"

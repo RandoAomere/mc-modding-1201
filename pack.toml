@@ -1,0 +1,13 @@
+name = "Mc Modding 1201"
+author = "Drollin"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2f01b84d60080020ff9c78d9207035cebcbfb82509c100d89b0d3b2758073b67"
+
+[versions]
+forge = "47.4.28"
+minecraft = "1.20.1"

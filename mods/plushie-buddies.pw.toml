@@ -1,0 +1,13 @@
+name = "Plushie Buddies"
+filename = "plushie_buddies-1.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5hoSWfrw/versions/Q4klVI3F/plushie_buddies-1.0.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "856f993f3e33e18bfb23df89f70b101973b05e5e0e32a4e1f68aaad8233931ddbeb355d94343f9365cb403043be914fe572c5cdd25491177e155f7e026b6af76"
+
+[update]
+[update.modrinth]
+mod-id = "5hoSWfrw"
+version = "Q4klVI3F"

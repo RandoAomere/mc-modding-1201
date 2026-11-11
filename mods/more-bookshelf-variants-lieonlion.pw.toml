@@ -1,0 +1,13 @@
+name = "More Bookshelves Variants"
+filename = "MoreBookshelfVariants-1.0.4+1.20.4-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/twjW6Ggd/versions/pCL5Lkk4/MoreBookshelfVariants-1.0.4%2B1.20.4-Forge.jar"
+hash-format = "sha512"
+hash = "f417c1b71c15c5417ab7528fe5d5bb2127e7ff6b289f3dae40400876031da732bc4ee167e40444c33defc80eee0adbb7fcf46c0b168371912552f551439277a3"
+
+[update]
+[update.modrinth]
+mod-id = "twjW6Ggd"
+version = "pCL5Lkk4"

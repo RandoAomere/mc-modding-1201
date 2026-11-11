@@ -1,0 +1,13 @@
+name = "Ecliptic Seasons: MultiMod Patch"
+filename = "Ecliptic-Seasons-MultiMod-Patch-1.20.1-forge-0.30.5-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d388143651f8e33027f1481bba019cb76d6751d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8940357
+project-id = 1316748
