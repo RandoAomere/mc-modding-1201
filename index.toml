@@ -505,6 +505,11 @@ hash = "a8a74f82ee352edaf1f4c1a799192ed1ccc2d2aac531c92faa95d22fb28787b6"
 metafile = true
 
 [[files]]
+file = "mods/invisible-frames-mod.pw.toml"
+hash = "ec82450cd1c363469185387fd78265fb3757686cbd4158f662f2aab43de31870"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "2e88de6ccb041493cc6fa75ce102892ddb88529d5c380ba288c7b5f928a4f998"
 metafile = true
