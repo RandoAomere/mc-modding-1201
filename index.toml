@@ -400,6 +400,11 @@ hash = "eeca094798607a0393a5ec261a0f3298e20fa74b0daa879951aec47c2c7fe64b"
 metafile = true
 
 [[files]]
+file = "mods/fantasy-mounts.pw.toml"
+hash = "0423db815b41ae52ceb61e0a84d4e15a524c09e9348520e98d2631c3361b1ee7"
+metafile = true
+
+[[files]]
 file = "mods/fantasys-furniture.pw.toml"
 hash = "5d363e7bb6e178d36a5dc55a59d1eb6c202b3279828ed9f2e8d689dd3c5b473e"
 metafile = true
@@ -597,11 +602,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
-metafile = true
-
-[[files]]
-file = "mods/mythic-mounts.pw.toml"
-hash = "f920114b959a9c9dc61803e8e6d9ee97f949e2eceb682ccb1f377738e2c08967"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Fantasy Mounts"
+filename = "fantasy-2.1.2-1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4957fc4a66029f6d7892e2be8b9df404d0f12f69"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9542754
+project-id = 443101
