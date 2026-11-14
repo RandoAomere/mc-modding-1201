@@ -70,6 +70,16 @@ hash = "1682fbe4eb343eb6cd7d4e1f19bb00c9b70833c58d4c760aafd3893f7e6e202d"
 metafile = true
 
 [[files]]
+file = "mods/armory-rpg-series.pw.toml"
+hash = "b4db75c195c2af9add8bb4be797ec1ecc9b36e4e0c73fdded0591bb654fca8f7"
+metafile = true
+
+[[files]]
+file = "mods/arsenal-rpg-series.pw.toml"
+hash = "24b61b73039566a015314419301128feb68f646d123730776bb2ab5703b638fb"
+metafile = true
+
+[[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "7e33ae78c18458b067ea86d217564743006ed3217d515c8ba8b1d1906b79ffb9"
 metafile = true
@@ -660,6 +670,11 @@ hash = "d9986c3798db028db0e1ab30851f7fab87ce12094448685ef7c4ba64374cbfa0"
 metafile = true
 
 [[files]]
+file = "mods/puffish-skills.pw.toml"
+hash = "5e18a539a20b74fa567a66e22f4fd1b0e9a0b924125ea720b3db26bfe33e9436"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "26569e19bf9fb02bf38c8870b65158912d2bc024a6d78af3647257c7f8fe50d1"
 metafile = true
@@ -677,6 +692,11 @@ metafile = true
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "677838eb83c920c29505de0c25f12e4c842a29f759866e841711c28a0dfc8077"
+metafile = true
+
+[[files]]
+file = "mods/relics-rpg.pw.toml"
+hash = "83a6a28eff0b72ad38aa285b8888edce27c09d30a655c56587d29952c2c4dee0"
 metafile = true
 
 [[files]]
@@ -700,6 +720,11 @@ hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
 
 [[files]]
+file = "mods/shield-api.pw.toml"
+hash = "a80ab2028903e5bab57ddb421308da6599324e0f4663cf5284730b2f74adf1ec"
+metafile = true
+
+[[files]]
 file = "mods/shield-overhaul.pw.toml"
 hash = "74883b9c41f7b7c1364040dd3f354329feee18ee38746f0a01f6fa0cf7d4e4c7"
 metafile = true
@@ -707,6 +732,11 @@ metafile = true
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "1632f0dc6de1959834b7823d1b19b210c31549f7bf996bcc0e99b9a41c4142be"
+metafile = true
+
+[[files]]
+file = "mods/skill-tree.pw.toml"
+hash = "13c75339a0bd169fe6cf8d674dda7c1a31387b9430690eae49400f4c47036ea6"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Skill Tree (RPG Series)"
+filename = "skill_tree-forge-1.6.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc7bb6c8b98ab1438b9f4e224a77694c05dde035"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9004135
+project-id = 1311513
