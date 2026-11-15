@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/fantasy-mounts.pw.toml"
-hash = "0423db815b41ae52ceb61e0a84d4e15a524c09e9348520e98d2631c3361b1ee7"
+hash = "a26df41480a19889492fd54ca831a4175d8c0267d4d44b6870afeec8a9530ae7"
 metafile = true
 
 [[files]]
@@ -520,11 +520,6 @@ hash = "5d03d20b037a8b7a4765ded0e25146fc970964be46401dff5f9b1059875084e8"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "b38d43feb83d6b23059e2eab0d0fc04378564c538817d1e73339d32e5937bca9"
-metafile = true
-
-[[files]]
 file = "mods/jewelry.pw.toml"
 hash = "a1db06c6a9b3be0618009957621b127669d5cc2d91e04833e9fa3b1b54d863f8"
 metafile = true
@@ -562,11 +557,6 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "8ee3776430187fb4d69278e645e10fefb7fe7342caee0a5861479ce25956713a"
-metafile = true
-
-[[files]]
-file = "mods/mezzconfig.pw.toml"
-hash = "8130d6dc3fcde11337b2910efaecff7a5a63ea924d85817f685cdeb9ef5d0292"
 metafile = true
 
 [[files]]
@@ -671,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "d9986c3798db028db0e1ab30851f7fab87ce12094448685ef7c4ba64374cbfa0"
+hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
 metafile = true
 
 [[files]]
@@ -827,6 +817,11 @@ metafile = true
 [[files]]
 file = "mods/the-graveyard-forge.pw.toml"
 hash = "b99e208155449b24be66d9c233c2f85988d744cfd274a9c5713be3d47882af7e"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "c60607bef0880b049a33d2c78cbbf889945c8a359c0ce3b29b136d6b825b7f67"
 metafile = true
 
 [[files]]
