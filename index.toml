@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "3011e54cc0370c6eccab1b78e6520266015f8de4a1fd762fd7df2a6c62e1b0e0"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/invisible-frames-mod.pw.toml"
-hash = "7aa49679a9d71abecd9aa5561380ae98d44fd29c21b523046e42e7fa664b6821"
+hash = "ec82450cd1c363469185387fd78265fb3757686cbd4158f662f2aab43de31870"
 metafile = true
 
 [[files]]
