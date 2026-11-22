@@ -1,0 +1,13 @@
+name = "TouhouLittleMaid-Self-Talk"
+filename = "tlm-self-talk-1.4.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cyM2pDdE/versions/oj6RFL4z/tlm-self-talk-1.4.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "76cd3cea3ef488d3cf86136aefcff90fcded548c62bf0bdf81c811bb0590fed1ecc325421f62b58ff5e1421692ba48f3290ccfc8ac5bdcd3d37d1060c93d33a0"
+
+[update]
+[update.modrinth]
+mod-id = "cyM2pDdE"
+version = "oj6RFL4z"

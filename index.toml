@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/book-of-dragons.pw.toml"
-hash = "879bacf928f2ab52ee9cda2c5713e4a96b12e5eb57e3c1b20e2d80651c4d92a0"
+hash = "06ac1bdeeccabc1f29086a45df5741ee97e8395cd46a7dd1167c51c2b980015d"
 metafile = true
 
 [[files]]
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/fantasy-mounts.pw.toml"
-hash = "a26df41480a19889492fd54ca831a4175d8c0267d4d44b6870afeec8a9530ae7"
+hash = "922e3a0def988f755b3e4ef57c325718ecb34a8489697d8f8316e5acf86669a2"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/fauna-engine.pw.toml"
-hash = "c848db44092c284402055b0f5c71b33f804f0d60588bf8f6975828e1c228d22e"
+hash = "8830fdbf4f55df1505ac6171a152be3c3a5ba2ac2dd2e7d9250a5220d24a47f0"
 metafile = true
 
 [[files]]
@@ -820,6 +820,10 @@ hash = "b99e208155449b24be66d9c233c2f85988d744cfd274a9c5713be3d47882af7e"
 metafile = true
 
 [[files]]
+file = "mods/tlm-agent-tweaks-1.0.0-beta.1-forge-1.20.1.jar"
+hash = "fe1d25ae4f2ff62466ed5996ca772c262820a5f8b1024239c84a76f5df3ac798"
+
+[[files]]
 file = "mods/tmrv.pw.toml"
 hash = "c60607bef0880b049a33d2c78cbbf889945c8a359c0ce3b29b136d6b825b7f67"
 metafile = true
@@ -830,9 +834,18 @@ hash = "b8045b5cd3b12a300913a6fc066fb4d7a0c9c9ece468dcf604a5648d4c283d59"
 metafile = true
 
 [[files]]
+file = "mods/touhoulittlemaid-self-talk.pw.toml"
+hash = "880ec37bc4047d178367f084a9c8e98f1a18d28cbe7765c1a8cb83eaccba8cac"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "7b7108d879e1e1c141b24d0d8fa268a6bbcd5c227875d156fcc62c3beec55f63"
 metafile = true
+
+[[files]]
+file = "mods/unified-xaero-worldmap-2.1.0-1.20.1-forge.jar"
+hash = "8202ce02213394c73965f92395e243cab70098f16b153a694c783b121c8bfa22"
 
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
